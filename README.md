@@ -14,7 +14,7 @@ Only Auth Users (AUTH_USERS) Can Use The Bot
 👉 Upload Mediafire, Zippyshare, Hxfile, Anonfiles, Antfiles URL using LK21
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/oVo-HxBots/URL-UploadBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanuw45/URL-UploadBot)
 
 ## Telegram Support:
 
